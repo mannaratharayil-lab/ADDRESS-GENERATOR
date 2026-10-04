@@ -1,2 +1,4 @@
 streamlit
-gspread
+pandas
+reportlab
+openpyxl
